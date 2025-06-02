@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413638001037",
+    "project_id": "tugas11-aafa4",
+    "storage_bucket": "tugas11-aafa4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413638001037:android:386e1ba1ef50682cf77dc4",
+        "android_client_info": {
+          "package_name": "com.crossplatform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RcV2koFW2Vb96IKDrI-Mi-UoBEOfTsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
